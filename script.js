@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Yayy, 10 fevral görüşək o zaman!";
+    question.innerHTML = "Yayyy, 10 fevral görüşək onda!";
     gif.src =
         "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });

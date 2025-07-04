@@ -5,7 +5,7 @@ const yesBtn = document.querySelector(".yes-btn");
 const noBtn = document.querySelector(".no-btn");
 
 yesBtn.addEventListener("click", () => {
-    question.innerHTML = "Hazirr ol, Turk! Her an narahat ede bilerem hehehe";
+    question.innerHTML = "Tesekkurler. Her an narahat ede bilerem hahahah";
     gif.src =
         "https://media.giphy.com/media/UMon0fuimoAN9ueUNP/giphy.gif";
 });
